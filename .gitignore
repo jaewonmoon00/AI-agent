@@ -1,0 +1,43 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# dotenv
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# logs
+*.log
+
+# mypy / coverage
+.mypy_cache/
+.coverage
+htmlcov/
+
+# mem0
+.mem0/
+
+# claude
+.claude
+
+# 기타 IDE
+.idea/
+*.swp
+
+# ipynb checkpoints
+.ipynb_checkpoints/
